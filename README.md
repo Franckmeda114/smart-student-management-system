@@ -13,6 +13,13 @@
 </p>
 
 ---
+## Group 7 – Members
+
+- MEDA Franck
+- OUADRAOGO Landry
+- BASSINGA Keya
+- YELEMOU Josias
+- CONGO Anifatou
 
 ## 📋 Table of Contents
 
@@ -209,30 +216,7 @@ classDiagram
 | **Polymorphism** | Overridden `__str__` methods for different display formats |
 | **Magic Methods** | `__str__`, `__repr__`, `__eq__`, `__lt__`, `__add__`, `__len__`, `__del__` |
 | **Decorators** | `@staticmethod`, `@classmethod`, `@property` |
-| **Class Variables** | `total_persons`, `ADMISSION_THRESHOLD`, `SCHOLARSHIP_THRESHOLD` |
-
----
-
-## 👥 Contributors
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Qm009">
-        <img src="https://github.com/Qm009.png" width="80px;" alt="Qm009"/><br>
-        <sub><b>Qm009</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Franckmeda114">
-        <img src="https://github.com/Franckmeda114.png" width="80px;" alt="Franckmeda114"/><br>
-        <sub><b>Franckmeda114</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
+| **Class Variables** | `total_persons`, `ADMISSION_THRESHOLD`, `
 
 ## 📄 License
 
